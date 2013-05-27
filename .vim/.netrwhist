@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/apache2/mods-available'
+let g:netrw_dirhist_2='/run/wpa_supplicant'
+let g:netrw_dirhist_3='/etc/wpa_supplicant'
+let g:netrw_dirhist_4='/etc/apache2/mods-enabled'
+let g:netrw_dirhist_5='/home/haydar'
+let g:netrw_dirhist_6='/home/haydar/tmp/gundo.vim/tests/vim_test/ftplugin/vim'
+let g:netrw_dirhist_7='/usr/share/vim/vim73/doc'
+let g:netrw_dirhist_8='/home/haydar/PycharmProjects'
+let g:netrw_dirhist_9='/home/haydar/python-munin/munin'
